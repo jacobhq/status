@@ -1,17 +1,5 @@
 module.exports = {
-  "title": "Desica status",
-  "name": "desica_status",
-  "description": "Welcome to Desica's home for status updates and maintenance.",
-  "defaultLocale": "en",
-  "locales": [
-    {
-      "code": "en",
-      "iso": "en-US",
-      "name": "English",
-      "file": "en.json"
-    }
-  ],
-  "content": {
-    "frontMatterFormat": "json"
-  }
-}
+  title: 'System Status',
+  name: 'system_status',
+  description: 'Now - Static Generated Example'
+};
